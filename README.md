@@ -13,7 +13,7 @@ I'm a Student from BRAC University, I'm studying BSC computer science.
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on Deep learning and Computer Vision
 
-🧠 I'm currently learning Deep learning, Tableau, Power bi.
+🧠 I'm currently learning Deep learning, Tableau, Power BI.
 
 📫 mail: md.akib.iqbal.majumder@g.bracu.ac.bd
 
